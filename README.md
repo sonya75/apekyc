@@ -2,13 +2,13 @@
 
 Zero: 26997
 
-Non-zero: 13821
+Non-zero: 13834
 
-305+: 10883
+305+: 10903
 
-610+: 7739
+610+: 7758
 
-1830+: 2545
+1830+: 2549
 
 **Animoca has an open API to check the KYC status for any wallet**
 
