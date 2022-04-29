@@ -1,12 +1,12 @@
 # LIST OF ALL ACTIVE KYC'd WALLETS AND HOW MANY APE COINS THEY OWN
 
-Zero: 28776
+Zero: 28772
 
-Non-zero: 10916
+Non-zero: 10941
 
-305+: 7642
+305+: 7668
 
-610+: 5335
+610+: 5352
 
 **Animoca has an open API to check the KYC status for any wallet**
 
