@@ -1,20 +1,20 @@
 # LIST OF ALL ACTIVE KYC'd WALLETS AND HOW MANY APE COINS THEY OWN
 
-Zero: 21212
+Zero: 21171
 
-Non-zero: 33772
+Non-zero: 33858
 
-305+: 32249
+305+: 32344
 
-610+: 26767
+610+: 26868
 
-915+: 7614
+915+: 7612
 
-1220+: 6346
+1220+: 6345
 
-1525+: 4995
+1525+: 4993
 
-1830+: 4474
+1830+: 4465
 
 **Otherside has an open API to check the KYC status for any wallet**
 
